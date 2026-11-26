@@ -42,3 +42,9 @@ yarn-error.log*
 # Testing
 coverage/
 
+
+# Added Security Safeguards
+*.key
+*.pem
+*service_account*.json
+*credentials*.json
